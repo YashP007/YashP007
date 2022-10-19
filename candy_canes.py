@@ -1,5 +1,5 @@
 def candy_canes():
   x = 5
   y = 10
-  z = x**y
+  z = x**y/2
   print(z)
