@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YashP007
-- 👀 I’m interested in computational engineering
+- 👀 I’m interested in bioelectronics
 - 🌱 I’m currently learning biomedical engineering
 - 📫 How to reach me pately@bu.edu
 
